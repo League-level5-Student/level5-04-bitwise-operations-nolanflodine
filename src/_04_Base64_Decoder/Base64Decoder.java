@@ -34,7 +34,7 @@ public class Base64Decoder {
 		'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '+', '/'
 	};
 	
-	//1. Complete this method so that it returns the the element in
+	//1. Complete this method so that it returns the element in
 	//   the base64Chars array that corresponds to the passed in char.
 	public static byte convertBase64Char(char c){
 		return 0;
